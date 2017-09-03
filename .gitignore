@@ -57,3 +57,5 @@ admin.env
 tmp
 
 # Extras (project specific)
+dist
+package-lock.json
