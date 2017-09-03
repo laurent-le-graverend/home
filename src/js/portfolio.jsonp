@@ -1,0 +1,271 @@
+storyjs_jsonp_data = {
+  "timeline":
+  {
+    "headline":"Laurent Le Graverend, My Portfolio",
+    "type":"default",
+    "text":"",
+    "startDate":"2010,07,01",
+    "date": [
+      {
+        "startDate":"2012,12,25",
+        "endDate":"",
+        "headline":"My Wedding!",
+        "text": "<p>Development and Design of my wedding website, made during three cold winter days with my wife.</p><h4>My roles</h4><ul><li class=\"webdev\">Web Development</li><li class=\"design\">Design</li><li class=\"hosting\">Hosting Strategies</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0024_LuciaAndLaurent.jpg",
+          "thumbnail":"./images/work/thumbs/LuciaAndLaurent.png",
+          "credit":"",
+          "caption":"http://www.luciaandlaurent.com"
+        }
+      },
+      {
+        "startDate":"2012,11,15",
+        "endDate":"",
+        "headline":"Pfizer",
+        "text": "<p>Worked for <a href=\"http://www.virtuoz.com\" target=\"_blank\">VirtuOz</a> to design a Virtual Agent Interface for Pfizer.</p><h4>My roles</h4><ul><li class=\"pm\">Project Management</li><li class=\"storyboard\">Storyboarding &amp; UX</li><li class=\"webdev\">Frontend Development</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0023_Pfizer.jpg",
+          "thumbnail":"./images/work/thumbs/Pfizer.png",
+          "credit":"",
+          "caption":"http://www.att.com/esupport/index.jsp"
+        }
+      },
+      {
+        "startDate":"2012,11,01",
+        "endDate":"",
+        "headline":"KLM Asia",
+        "text": "<p>A Facebook game, for <strong>10 countries</strong> in Asia. Fully made with the awesome javascript framework <a href=\"http://angularjs.org/\" target=\"_blank\">AngularJS</a> developped by Google.</p><h4>My roles</h4><ul><li class=\"webdev\">Development</li><li class=\"hosting\">Hosting Strategies</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0019_KLM.jpg",
+          "thumbnail":"./images/work/thumbs/KLM.png",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2012,09,25",
+        "endDate":"",
+        "headline":"AT&T",
+        "text": "<p>Worked for <a href=\"http://www.virtuoz.com\" target=\"_blank\">VirtuOz</a> to improve the user experience of the <a href=\"http://www.att.com/esupport/index.jsp\" target=\"_blank\">AT&amp;T Chat Utility</a></p><h4>My roles</h4><ul><li class=\"pm\">Project Management</li><li class=\"storyboard\">Storyboarding &amp; UX</li><li class=\"webdev\">Frontend Development</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0022_ATT.jpg",
+          "thumbnail":"./images/work/thumbs/ATT.png",
+          "credit":"",
+          "caption":"http://www.att.com/esupport/index.jsp"
+        }
+      },
+      {
+        "startDate":"2012,04,09",
+        "endDate":"",
+        "headline":"Skyteam",
+        "text": "<p>I developped the new Skyteam event website for the Korean market.</p><h4>My roles</h4><ul><li class=\"webdev\">Web Development</li><li class=\"hosting\">Hosting Strategies</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0018_Skyteam.jpg",
+          "thumbnail":"./images/work/thumbs/Skyteam.png",
+          "credit":"",
+          "caption":"http://www.skyteamevent.co.kr"
+        }
+      },
+      {
+        "startDate":"2012,03,30",
+        "endDate":"",
+        "headline":"KLM Korea",
+        "text": "<p>A Facebook campaign for KLM, based on the football player Lee Chung-yong.</p><h4>My roles</h4><ul><li class=\"webdev\">Web Development</li><li class=\"hosting\">Hosting Strategies</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0017_KLMKorea.jpg",
+          "thumbnail":"./images/work/thumbs/KLM.png",
+          "credit":"",
+          "caption":"https://www.facebook.com/KLMKorea/"
+        }
+      },
+      {
+        "startDate":"2012,01,15",
+        "endDate":"",
+        "headline":"Europe Korea BPC 2012",
+        "text": "<p>EUCCK organize a Business Plan Competition for students since 2011.</p><p>I am in charge of the technical part of this big event for online promotion and the registrations to the event.</p><h4>My roles</h4><ul><li class=\"pm\">Project Manager</li><li class=\"storyboard\">Storyboard</li><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0021_EUCCK_BPC2012.jpg",
+          "thumbnail":"./images/work/thumbs/BPC2012.png",
+          "credit":"",
+          "caption":"http://www.europekorea-bpc.co.kr"
+        }
+      },
+      {
+        "startDate":"2011,12,10",
+        "endDate":"",
+        "headline":"SYSTRA",
+        "text": "<p>A web application designed for browsers, tablets and mobiles for the train industry.</p><p>This application helps enginneers and technician for maintenance procedures for the LRT Line in Uijeongbu.</p><p><a href=\"http://fr.linkedin.com/in/willyblandin\" target=\"_blank\" rel=\"friend\">Willy Blandin</a> has been in charge of the frontend part of the development.</p><h4>My roles</h4><ul><li class=\"pm\">Project Manager</li><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0013_SYSTRA.jpg",
+          "thumbnail":"./images/work/thumbs/SYSTRA.png",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2011,10,15",
+        "endDate":"",
+        "headline":"Asiance",
+        "text": "<p>This is my company website.</p><p>I developed the backend part of this project for a good internationalization using the framework <strong>Symfony 1.4</strong>.</p><p><a href=\"http://www.linkedin.com/profile/view?id=127391895\" target=\"_blank\" rel=\"friend\">Karine Do</a>, has been in charge of the frontend with her excelent 180° Javascript framework.</p>        <p itemprop=\"award\">We won the site of the day label from <a href=\"http://www.awwwards.com/web-design-awards/asiance\" target=\"_blank\" itemprop=\"url\">awwwards</a>!</p><h4>My roles</h4><ul><li class=\"webdev\">Web Development (backend)</li><li class=\"deployment\">Deployment to production</li></ul>      ",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0014_Asiance.jpg",
+          "thumbnail":"./images/work/thumbs/Asiance.png",
+          "credit":"",
+          "caption":"http://www.asiance.com/"
+        }
+      },
+      {
+        "startDate":"2011,06,06",
+        "endDate":"",
+        "headline":"Skyteam",
+        "text": "<p>An <strong>event</strong> website designed to promote Skyteam in South Korea, winners won plane tickets offered by the Skyteam partners.</p><h4>My roles</h4><ul><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0011_Skyteam.jpg",
+          "thumbnail":"./images/work/thumbs/Skyteam.png",
+          "credit":"",
+          "caption":"http://www.skyteamevent.co.kr/"
+        }
+      },
+      {
+        "startDate":"2011,05,01",
+        "endDate":"",
+        "headline":"L'Or&eacute;al",
+        "text": "<p>Promotion of a Gala for Dermatologists attending to a conference in Seoul.</p><p>Registrations for the Gala has been done on this website.</p><h4>My roles</h4><ul><li class=\"pm\">Project Manager</li><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0012_L_Oreal_Gala_Evening.jpg",
+          "thumbnail":"./images/work/thumbs/LOreal.png",
+          "credit":"",
+          "caption":"http://www.lorealseoulgalaevening.com/"
+        }
+      },
+      {
+        "startDate":"2011,04,12",
+        "endDate":"",
+        "headline":"Top French Cities",
+        "text": "<p>This is actually one of my <strong>favorite website</strong> I did! Because it's about <strong>France</strong> and because it's full <strong>Ajax</strong> and <strong>Javascript</strong>.</p><p>It has been designed for a marketing campaign for Atout France to promote other cities than Paris.</p><h4>My roles</h4><ul><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0010_TopFrenchCities.jpg",
+          "thumbnail":"./images/work/thumbs/TopFrenchCities.png",
+          "credit":"",
+          "caption":"http://www.topfrenchcities.co.kr/"
+        }
+      },
+      {
+        "startDate":"2011,03,01",
+        "endDate":"",
+        "headline":"Lacoste",
+        "text": "<p><strong>IT manager</strong> of the <strong>Lacoste</strong> brand websites and <strong>Lacoste L!ve</strong> websites in <strong>Asia</strong>.</p><p>In charge of the localizations, plannings, technical decisions and communication with Lacoste's branches in Asia for the <a href=\"http://www.lacoste.co.kr/\" target=\"_blank\" itemprop=\"significantLinks\">Korean</a>, <a href=\"http://www.lacoste.com.cn/\" target=\"_blank\" itemprop=\"significantLinks\">Chinese</a> and <a href=\"http://www.lacoste.co.jp/\" target=\"_blank\" itemprop=\"significantLinks\">Japanese</a> markets.</p><h4>My roles</h4><ul><li class=\"pm\">IT Manager</li><li class=\"i10n\">Localization</li><li class=\"webdev\">Web Development</li><li class=\"hosting\">Hosting Strategies</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0015_Lacoste.jpg",
+          "thumbnail":"./images/work/thumbs/Lacoste.png",
+          "credit":"",
+          "caption":"http://www.lacoste.com"
+        }
+      },
+      {
+        "startDate":"2011,02,01",
+        "endDate":"",
+        "headline":"Lacoste L!VE",
+        "text": "<p>I am the <strong>IT manager</strong> of the <strong>Lacoste</strong> brand websites and <strong>Lacoste L!ve</strong> websites in <strong>Asia</strong>.</p><p>I am in charge of the <a href=\"http://www.lacoste.co.kr/\" target=\"_blank\" itemprop=\"significantLinks\">Korean</a>, <a href=\"http://www.lacoste.com.cn/\" target=\"_blank\" itemprop=\"significantLinks\">Chinese</a> and <a href=\"http://www.lacoste.co.jp/\" target=\"_blank\" itemprop=\"significantLinks\">Japanese</a> markets.</p><h4>My roles</h4><ul><li class=\"pm\">IT Manager</li><li class=\"i10n\">Localization</li><li class=\"webdev\">Web Development</li><li class=\"hosting\">Hosting Strategies</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0020_LacosteLive.jpg",
+          "thumbnail":"./images/work/thumbs/LacosteLive.png",
+          "credit":"",
+          "caption":"http://www.lacoste-live.com"
+        }
+      },
+      {
+        "startDate":"2011,01,15",
+        "endDate":"",
+        "headline":"Europe Korea BPC 2011",
+        "text": "<p>The first Business Plan Competition organized by the EUCCK.</p><p>In charge of the technical part of this big event. Online promotion and information and registrations by this website.</p><h4>My roles</h4><ul><li class=\"pm\">Project Manager</li><li class=\"storyboard\">Storyboard</li><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0007_EUCCK_BPC.jpg",
+          "thumbnail":"./images/work/thumbs/BPC2012.png",
+          "credit":"",
+          "caption":"http://www.europekorea-bpc.co.kr"
+        }
+      },
+      {
+        "startDate":"2010,12,15",
+        "endDate":"",
+        "headline":"Finnair - Fly to Europe",
+        "text": "<p>I developped two websites for a big marketing campaign for Finnair in South Korea.</p><p>Participation rates has been quite impressives!</p><h4>My roles</h4><ul><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0009_FlyToEurope.jpg",
+          "thumbnail":"./images/work/thumbs/Finnair.png",
+          "credit":"",
+          "caption":"http://www.flytoeurope.co.kr/"
+        }
+      },
+      {
+        "startDate":"2010,11,15",
+        "endDate":"",
+        "headline":"Longchamp",
+        "text": "<p>I have been in charge of the technical part for localization in Korean of the Longchamp brand site.</p><h4>My roles</h4><ul><li class=\"i10n\">Localization</li><li class=\"webdev\">Web Development</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0008_Longchamp.jpg",
+          "thumbnail":"./images/work/thumbs/Longchamp.png",
+          "credit":"",
+          "caption":"http://www.longchamp.com/kr/home-kr-606001.html"
+        }
+      },
+      {
+        "startDate":"2010,09,20",
+        "endDate":"",
+        "headline":"Urban Nomad",
+        "text": "<p>A very interesting and long project. The goal of this website was to present Seoul's top destination using social ranking (recommandations) and a tour planner.</p><p>The first real internationalized website I developped (English and Korean).</p><p>Unfortunately the client changed his business model and renewed the website!</p><h4>My roles</h4><ul><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0006_Urban_Nomad.jpg",
+          "thumbnail":"./images/work/thumbs/Nomad.png",
+          "credit":"",
+          "caption":"<a href=\"http://urban-nomad.net/\" target=\"_blank\" itemprop=\"url\">http://urban-nomad.net/</a>"
+        }
+      },
+      {
+        "startDate":"2010,08,15",
+        "endDate":"",
+        "headline":"French Design 2010",
+        "text": "<p>The first project where I had to managed both client side and the technical side.</p><p>The goal of this website was to present French design agencies' portfolios and to handle registration to meet these companies' representatives in Seoul in September 2010.</p><h4>My roles</h4><ul><li class=\"pm\">Project Manager</li><li class=\"storyboard\">Storyboard</li><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0005_French_Design_2010.jpg",
+          "thumbnail":"./images/work/thumbs/UBIFRANCE.png",
+          "credit":"",
+          "caption":"http://www.frenchdesign2010.co.kr/"
+        }
+      },
+      {
+        "startDate":"2010,07,01",
+        "endDate":"",
+        "headline":"MICE Seoul",
+        "text": "<p>I have been working a lot on this website, it has been my first project in South Korea, I developed a <a href=\"http://miceseoul.com/tour/\">full trip planner module</a> in full Javascript.</p><p>I have also been in charge of localizing the full website to <strong>Chinese</strong> and <strong>Japanese</strong>.</p><h4>My roles</h4><ul><li class=\"ia\">Information Architecture</li><li class=\"webdev\">Web Development</li><li class=\"deployment\">Deployment to production</li></ul>",
+        "asset":
+        {
+          "media":"./images/work/Portfolio_Laurent_LG_0004_Mice_Seoul.jpg",
+          "thumbnail":"./images/work/thumbs/Mice_Seoul.png",
+          "credit":"",
+          "caption":"http://www.miceseoul.com/"
+        }
+      }
+    ]
+  }
+}
