@@ -19,10 +19,9 @@
   "devDependencies": {
     "@bandlab/stylelint-config-bandlab": "^1.1.0",
     "browser-sync": "^2.18.13",
-    "eslint": "^4.5.0",
+    "eslint": "^4.6.1",
     "eslint-config-bandlab-base": "^2.2.0",
     "eslint-plugin-unicorn": "^2.1.2",
-    "foundation-sites": "^6.4.3",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-clean-css": "^3.7.0",
@@ -33,6 +32,7 @@
     "gulp-sass": "^3.1.0",
     "gulp-usemin": "^0.3.28",
     "gulp-util": "^3.0.8",
+    "normalize.css": "^7.0.0",
     "run-sequence": "^2.1.0"
   }
 }
