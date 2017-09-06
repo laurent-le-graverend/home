@@ -81,8 +81,11 @@ gulp.task('serve', () => {
 
       gulp.watch('./src/**/*.scss', ['styles']);
       gulp.watch('./src/**/*.js', ['scripts', 'html']);
-      gulp.watch('./src/**/*.js').on('change', browserSync.reload);
-      gulp.watch('./src/*.html').on('change', browserSync.reload);
+      gulp.watch('./src/**/*.html', ['html']);
+
+      // Reload the browser when files are compiled
+      gulp.watch('./dist/**/*.js').on('change', browserSync.reload);
+      gulp.watch('./dist/**/*.html').on('change', browserSync.reload);
     });
 });
 
