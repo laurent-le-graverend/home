@@ -23,10 +23,7 @@ gulp.task('styles', () => {
       this.emit('end');
     }))
     .pipe(sass())
-    .pipe(autoprefixer({
-      browsers: ['last 2 versions'],
-      cascade: false
-    }))
+    .pipe(autoprefixer({ browsers: ['> 1%', 'last 2 versions', 'Firefox ESR'] }))
     .pipe(cleanCss())
     .pipe(gulp.dest('./dist/'))
     .pipe(browserSync.stream());
