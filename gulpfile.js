@@ -21,7 +21,7 @@ function styles () {
     .pipe($.sass.sync({
       outputStyle: 'expanded',
       precision: 10,
-      includePaths: ['.']
+      includePaths: ['.', 'node_modules']
     }).on('error', $.sass.logError))
     .pipe($.postcss([
       autoprefixer()
