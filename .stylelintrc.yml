@@ -1,4 +1,0 @@
-extends: '@bandlab/stylelint-config-bandlab'
-ignoreFiles:
-  - dist/**/*
-  - node_modules/**/*

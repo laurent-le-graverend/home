@@ -2,6 +2,8 @@
 
 _Nothing fancy to see here! Just the sources of my website www.legraverend.fr_
 
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
 ## Stack
 
 ### Create Stack:
