@@ -1,6 +1,6 @@
 {
   "name": "laurent-le-graverend",
-  "version": "3.0.0",
+  "version": "3.5.0",
   "description": "Laurent Le Graverend – Homepage",
   "repository": {
     "type": "git",
@@ -16,11 +16,11 @@
     "node": ">=4"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.4",
-    "@babel/preset-env": "^7.6.3",
-    "autoprefixer": "^9.6.5",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "autoprefixer": "^9.7.5",
     "browser-sync": "^2.26.7",
-    "cross-env": "^6.0.3",
+    "cross-env": "^7.0.2",
     "cssnano": "^4.1.10",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
@@ -29,8 +29,8 @@
     "gulp-filter": "^6.0.0",
     "gulp-htmlmin": "^5.0.1",
     "gulp-if": "^3.0.0",
-    "gulp-imagemin": "^6.1.1",
-    "gulp-load-plugins": "^2.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-load-plugins": "^2.0.2",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^8.0.0",
     "gulp-rev": "^9.0.0",
@@ -39,10 +39,10 @@
     "gulp-size": "^3.0.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "gulp-useref": "^4.0.0",
+    "gulp-useref": "^4.0.1",
     "normalize.css": "^8.0.1",
-    "standard": "^14.3.1",
-    "yargs": "14.2.0"
+    "standard": "^14.3.3",
+    "yargs": "15.3.1"
   },
   "scripts": {
     "serve:dist": "cross-env NODE_ENV=production gulp serve",
