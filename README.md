@@ -24,5 +24,5 @@ aws cloudformation update-stack \
 ### Delete Stack
 
 ```bash
-aws cloudformation delete-stack --stack-name bandlab-namm-event --region us-east-1
+aws cloudformation delete-stack --stack-name home --region us-east-1
 ```
