@@ -1,0 +1,10 @@
+extends: '@bandlab/stylelint-config-bandlab'
+ignoreFiles:
+  - dist/**/*
+  - node_modules/**/*
+rules:
+  selector-type-no-unknown:
+  - true
+  selector-class-pattern: null
+  selector-id-pattern: null
+  value-keyword-case: null

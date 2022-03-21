@@ -1,6 +1,6 @@
 {
   "name": "laurent-le-graverend",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Laurent Le Graverend – Homepage",
   "repository": {
     "type": "git",
@@ -12,54 +12,50 @@
     "url": "https://github.com/laurent-le-graverend/home/issues"
   },
   "homepage": "https://github.com/laurent-le-graverend/home#readme",
-  "engines": {
-    "node": ">=4"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.13.16",
-    "@babel/preset-env": "^7.13.15",
-    "autoprefixer": "^10.2.5",
-    "browser-sync": "^2.26.14",
-    "cross-env": "^7.0.3",
-    "cssnano": "^5.0.1",
-    "del": "^6.0.0",
-    "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0",
-    "gulp-cli": "^2.3.0",
-    "gulp-filter": "^6.0.0",
-    "gulp-htmlmin": "^5.0.1",
-    "gulp-if": "^3.0.0",
-    "gulp-imagemin": "^7.1.0",
-    "gulp-load-plugins": "^2.0.6",
-    "gulp-plumber": "^1.2.1",
-    "gulp-postcss": "^9.0.0",
-    "gulp-rev": "^9.0.0",
-    "gulp-rev-replace": "^0.4.4",
-    "gulp-sass": "^4.1.0",
-    "gulp-size": "^3.0.0",
-    "gulp-sourcemaps": "^3.0.0",
-    "gulp-uglify": "^3.0.2",
-    "gulp-useref": "^5.0.0",
-    "normalize.css": "^8.0.1",
-    "standard": "^16.0.3",
-    "yargs": "16.2.0"
-  },
   "scripts": {
     "serve:dist": "cross-env NODE_ENV=production gulp serve",
     "start": "gulp serve",
     "build": "cross-env NODE_ENV=production gulp",
-    "test": "npx standard",
-    "tasks": "gulp --tasks"
+    "lint": "npx eslint '**/*.{js,jsx,svelte,vue}' && npx stylelint '**/*.{css,scss}'",
+    "test": "npx gulp lint"
   },
   "browserslist": [
     "> 1%",
     "last 2 versions",
     "Firefox ESR"
   ],
-  "standard": {
-    "globals": [
-      "describe",
-      "it"
-    ]
+  "devDependencies": {
+    "@babel/core": "7.17.8",
+    "@babel/preset-env": "7.16.11",
+    "@bandlab/eslint-config-bandlab-base": "4.3.0",
+    "@bandlab/stylelint-config-bandlab": "4.0.0",
+    "@ronilaukkarinen/gulp-stylelint": "14.0.6",
+    "autoprefixer": "10.4.4",
+    "browser-sync": "2.27.9",
+    "cross-env": "7.0.3",
+    "cssnano": "5.1.4",
+    "del": "6.0.0",
+    "gulp": "4.0.2",
+    "gulp-babel": "8.0.0",
+    "gulp-cli": "2.3.0",
+    "gulp-eslint": "6.0.0",
+    "gulp-htmlmin": "5.0.1",
+    "gulp-if": "3.0.0",
+    "gulp-load-plugins": "2.0.7",
+    "gulp-plumber": "1.2.1",
+    "gulp-postcss": "9.0.1",
+    "gulp-rev": "9.0.0",
+    "gulp-rev-replace": "0.4.4",
+    "gulp-sass": "5.1.0",
+    "gulp-size": "4.0.1",
+    "gulp-sourcemaps": "3.0.0",
+    "gulp-uglify": "3.0.2",
+    "gulp-useref": "5.0.0",
+    "normalize.css": "8.0.1",
+    "postcss": "8.4.12",
+    "postcss-scss": "4.0.3",
+    "sass": "1.49.9",
+    "stylelint": "14.6.0",
+    "yargs": "17.4.0"
   }
 }
