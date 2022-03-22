@@ -1,4 +1,4 @@
-#  Laurent LG [![Build Status](https://travis-ci.org/laurent-le-graverend/home.svg?branch=master)](https://travis-ci.org/laurent-le-graverend/home)
+#  Laurent LG
 
 _The source of my website www.legraverend.fr_
 
