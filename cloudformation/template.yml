@@ -75,6 +75,11 @@ Resources:
             Resource:
             - !GetAtt WebsiteBucket.Arn
             - !Join ['', [!GetAtt WebsiteBucket.Arn, /*]]
+          - Effect: Allow
+            Action:
+            - cloudfront:CreateInvalidation
+            - cloudfront:GetDistribution
+            Resource: '*'
   UserAccessKey:
     Type: AWS::IAM::AccessKey
     Properties:
@@ -129,20 +134,14 @@ Resources:
           DNSName: !GetAtt [WebsiteCloudfront, DomainName]
 Outputs:
   BucketName:
-    Value: !Ref 'WebsiteBucket'
-    Description: Name of S3 bucket to hold website content
-  CloudfrontEndpoint:
-    Value: !GetAtt [WebsiteCloudfront, DomainName]
-    Description: Endpoint for Cloudfront distribution
+    Value: !Ref WebsiteBucket
+  DistributionId:
+    Value: !Ref WebsiteCloudfront
   IAMUser:
-    Value:
-      Ref: S3User
-    Description: IAM User for customer
-  FullDomain:
-    Value: !Ref 'FullDomainName'
-    Description: Full DomainName
+    Value: !Ref S3User
+  Domain:
+    Value: !Ref FullDomainName
   AccessKey:
-    Value:
-      !Ref UserAccessKey
-  SecretKeyformyaccesskey:
+    Value: !Ref UserAccessKey
+  SecretKey:
     Value: !GetAtt UserAccessKey.SecretAccessKey
